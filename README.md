@@ -1,0 +1,1 @@
+# msc-aws-blog-app
