@@ -28,7 +28,7 @@ Cloud Front \- CDN
 ![][image3]
 
 Cloud Front Permissions to access s3 Bucket
-
+```
 {  
         "Version": "2008-10-17",  
         "Id": "PolicyForCloudFrontPrivateContent",  
@@ -49,6 +49,7 @@ Cloud Front Permissions to access s3 Bucket
             }  
         \]  
       }
+```
 
 Image URLs through CDN:  [https://d2dp752w9p1bss.cloudfront.net/profile\_pics/dv\_CBeooc6.jpg](https://d2dp752w9p1bss.cloudfront.net/profile_pics/dv_CBeooc6.jpg)  
 Loom URL: [https://www.loom.com/share/1816415342f24f7fa55b601bc76ec234](https://www.loom.com/share/1816415342f24f7fa55b601bc76ec234)
